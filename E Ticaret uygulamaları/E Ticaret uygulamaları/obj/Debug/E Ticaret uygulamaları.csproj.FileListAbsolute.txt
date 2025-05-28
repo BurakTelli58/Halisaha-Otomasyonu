@@ -1,0 +1,12 @@
+C:\Users\1numara\source\repos\E Ticaret uygulamaları\E Ticaret uygulamaları\bin\Debug\E Ticaret uygulamaları.exe.config
+C:\Users\1numara\source\repos\E Ticaret uygulamaları\E Ticaret uygulamaları\bin\Debug\E Ticaret uygulamaları.exe
+C:\Users\1numara\source\repos\E Ticaret uygulamaları\E Ticaret uygulamaları\bin\Debug\E Ticaret uygulamaları.pdb
+C:\Users\1numara\source\repos\E Ticaret uygulamaları\E Ticaret uygulamaları\obj\Debug\E Ticaret uygulamaları.csproj.AssemblyReference.cache
+C:\Users\1numara\source\repos\E Ticaret uygulamaları\E Ticaret uygulamaları\obj\Debug\E_Ticaret_uygulamaları.Form1.resources
+C:\Users\1numara\source\repos\E Ticaret uygulamaları\E Ticaret uygulamaları\obj\Debug\E_Ticaret_uygulamaları.Properties.Resources.resources
+C:\Users\1numara\source\repos\E Ticaret uygulamaları\E Ticaret uygulamaları\obj\Debug\E Ticaret uygulamaları.csproj.GenerateResource.cache
+C:\Users\1numara\source\repos\E Ticaret uygulamaları\E Ticaret uygulamaları\obj\Debug\E Ticaret uygulamaları.csproj.CoreCompileInputs.cache
+C:\Users\1numara\source\repos\E Ticaret uygulamaları\E Ticaret uygulamaları\obj\Debug\E Ticaret uygulamaları.exe
+C:\Users\1numara\source\repos\E Ticaret uygulamaları\E Ticaret uygulamaları\obj\Debug\E Ticaret uygulamaları.pdb
+C:\Users\1numara\source\repos\E Ticaret uygulamaları\E Ticaret uygulamaları\obj\Debug\E_Ticaret_uygulamaları.Form2.resources
+C:\Users\1numara\source\repos\E Ticaret uygulamaları\E Ticaret uygulamaları\obj\Debug\E_Ticaret_uygulamaları.Form3.resources
